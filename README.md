@@ -118,21 +118,20 @@ git clone https://github.com/takundagorogodo/GreenPlants-Website.git
 No installation required.
 
 ---
-
 ## 🖼️ Screenshots
 
+<p align="center">
+  <img src="screenshots/home.png" width="30%" />
+  <img src="screenshots/review.png" width="30%" />
+  <img src="screenshots/about.png" width="30%" />
+</p>
 
-
-Example:
-
-```
-screenshots/home.png
-screenshots/popular-plants.png
-screenshots/about.png
-```
-
+<p align="center">
+  <img src="screenshots/about_2.png" width="30%" />
+  <img src="screenshots/popular.png" width="30%" />
+  <img src="screenshots/footer.png" width="30%" />
+</p>
 ---
-
 ## 🎯 What I Learned
 
 * Building responsive websites with Tailwind CSS
