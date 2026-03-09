@@ -136,9 +136,8 @@ No installation required.
   <img src="screenshots/footer.png" width="45%" />
 </p>
 ---
----
-## 🎯 What I Learned
 
+## 🎯 What I Learned
 * Building responsive websites with Tailwind CSS
 * Designing modern landing pages
 * Creating reusable UI components
