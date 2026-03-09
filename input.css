@@ -1,0 +1,106 @@
+/* input.css - Corrected with proper Tailwind imports */
+@import "tailwindcss";
+
+@layer components {
+  body {
+    @apply bg-green-950 text-white;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .navlink:hover {
+    @apply text-amber-200 border-b-2 border-amber-200;
+  }
+  
+  /* Active navlink styling */
+  .navlink.active-nav a {
+    @apply text-amber-200 border-b-2 border-amber-200;
+  }
+}
+
+/* Global styles */
+span {
+  color: rgb(255, 153, 0);
+  font-weight: bold;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Fixed pseudo-element styling */
+.iwewe {
+  position: relative;
+}
+
+.iwewe::after {
+  content: "";
+  position: absolute;
+  max-width: 700px;
+  width: 100%;
+  z-index: 1;
+  height: 4px;
+  background-color: #fff;
+  top: 37%;
+  left: -20%;
+}
+
+/* Custom utilities */
+.-top-35 {
+  top: -8.75rem;
+}
+ .active-nav a {
+          color: #fbbf24 !important; /* Amber color */
+          border-bottom: 2px solid #fbbf24;
+          padding-bottom: 4px;
+        }
+        
+        /* Smooth hover effects */
+        .navlink a {
+          transition: all 0.3s ease;
+        }
+        
+        /* Card hover effects */
+        .bg-green-900.rounded-xl {
+          transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .bg-green-900.rounded-xl:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        }
+        
+        /* Button hover effects */
+        button {
+          transition: all 0.3s ease;
+          cursor: pointer;
+        }
+        
+        button:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+.mt-35 {
+  margin-top: 8.75rem;
+}
+    .corner-leaf {
+          position: absolute;
+          width: 120px;
+          opacity: 0.3;
+          z-index: 0;
+          pointer-events: none;
+        }
+        
+        .section-wrapper {
+          position: relative;
+          overflow: hidden;
+        }
+        
+        /* Rotate variations for different corners */
+        .rotate-90 { transform: rotate(90deg); }
+        .rotate-180 { transform: rotate(180deg); }
+        .rotate-270 { transform: rotate(270deg); }
+        .scale-x { transform: scaleX(-1); }
