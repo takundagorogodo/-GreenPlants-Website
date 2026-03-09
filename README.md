@@ -6,9 +6,7 @@ This project presents a clean UI for showcasing plants, services, and company in
 The website includes sections such as **Home, About, Popular Plants, Services, and Contact**, designed to create a visually appealing plant shop landing page.
 
 ---
-
 ## 🚀 Features
-
 * 🌿 Modern plant-themed UI design
 * 📱 Fully responsive layout
 * 🧭 Fixed navigation bar with smooth scrolling
@@ -18,7 +16,6 @@ The website includes sections such as **Home, About, Popular Plants, Services, a
 * 📩 Newsletter subscription section
 * 🔗 Social media icons integration
 * ✨ Hover animations and card effects
-
 ---
 
 ## 🛠️ Technologies Used
@@ -111,7 +108,7 @@ Contains:
 1. Download or clone the repository
 
 ```
-git clone https://github.com/your-username/greenplants-website.git
+git clone https://github.com/takundagorogodo/GreenPlants-Website.git
 ```
 
 2. Open the project folder.
@@ -124,7 +121,7 @@ No installation required.
 
 ## 🖼️ Screenshots
 
-You can add screenshots of your website here.
+
 
 Example:
 
@@ -148,15 +145,9 @@ screenshots/about.png
 ---
 
 ## 📌 Future Improvements
-
-* Add shopping cart functionality
-* Add plant filtering system
-* Add backend for orders
-* Add login/signup system
 * Deploy the website online
 
 ---
-
 ## 👨‍💻 Author
 
 Takundah Gorogodo
