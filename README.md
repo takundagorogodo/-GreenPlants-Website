@@ -121,16 +121,21 @@ No installation required.
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="30%" />
-  <img src="screenshots/review.png" width="30%" />
-  <img src="screenshots/about.png" width="30%" />
+  <img src="screenshots/home.png" width="45%" />
+  <img src="screenshots/review.png" width="45%" />
+  
 </p>
 
 <p align="center">
-  <img src="screenshots/about_2.png" width="30%" />
-  <img src="screenshots/popular.png" width="30%" />
-  <img src="screenshots/footer.png" width="30%" />
+  <img src="screenshots/about_2.png" width="45%" />
+  <img src="screenshots/about.png" width="45%" />
+</p>  
+
+<p align="center">
+  <img src="screenshots/popular.png" width="45%" />
+  <img src="screenshots/footer.png" width="45%" />
 </p>
+---
 ---
 ## 🎯 What I Learned
 
